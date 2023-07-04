@@ -10,8 +10,8 @@ Data was imported from https://aka.ms/30DLDATFinanceDataSample as part of the ma
 The data does not have any blank entry and so no data cleaning was done upon transforming in Excel
 
 # Data Findings
-Most profit was made from Cpuntry/Region:France, Product:Paseo and Segment:Government
-Least profit was made from Cpuntry/Region:Mexico, Product:Carretera and Segment:Enterprise
+Most profit was made from Country/Region:France, Product:Paseo and Segment:Government
+Least profit was made from Country/Region:Mexico, Product:Carretera and Segment:Enterprise
 Canada sold the most unit which was 22% of all unit total sold
 Goverment made 63% of the profit while Enterprise made 3% loss of the total profit
 The Month of October has the most sales and most discount
