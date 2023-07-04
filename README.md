@@ -1,13 +1,13 @@
 # My-First-Data-Analysis-Repo - Financial Analysis
 
 # Project Objectives
-The project consist of financial report of  manufacturing and sales of 5 products (Paseo, VTT, Amarilla, Velo, Montana and Carretera) across five regions (Canada, France, Germany, Mexico and USA) to monitor sales across products and regions.
+* The project consist of financial report of  manufacturing and sales of 5 products (Paseo, VTT, Amarilla, Velo, Montana and Carretera) across five regions (Canada, France, Germany, Mexico and USA) to monitor sales across products and regions.
 
 # Data Sourcing
-Data was imported from https://aka.ms/30DLDATFinanceDataSample as part of the material source for 30 days data analytic learning with Excel and PowerBI
+* Data was imported from https://aka.ms/30DLDATFinanceDataSample as part of the material source for 30 days data analytic learning with Excel and PowerBI
 
 # Data Transformation
-The data does not have any blank entry and so no data cleaning was done upon transforming in Excel
+* The data does not have any blank entry and so no data cleaning was done upon transforming in Excel
 
 # Data Findings
 Most profit was made from Country/Region:France, Product:Paseo and Segment:Government
