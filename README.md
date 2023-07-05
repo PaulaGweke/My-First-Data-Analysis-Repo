@@ -23,7 +23,7 @@
 * Findings are displayed in Charts of https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/Financial_Analysis.xlsx
 
 # Recommendation
-* Unit sales price has unit sales price with discount applied. The Spreadsheet shuld separate unit price with and without discount
+* Unit sales price has unit sales price with discount applied. The Spreadsheet should separate unit price with and without discount
 * The Financial sales is for September 2013 to December 2014. The financial report should be divided into fiscal year e.g September 2013 to August 2014 or for January 2014 to December 2014. However, the use of field bottons in Excel can be used to display separate results for 2013 and 2014
 * The distribution of profit across the discount range suggest that customers are motivated by offers of discounts. However, the use of high to medium discount have the tendency to cause loss while not having much improvement on profit. Hence the High and medium discounts should be removed or restricted to select months for short periods of holidays.
 * Also, the low turnover from Enterprise should be monitored with implementation of the restricted high to medium discounts; if sales from Enterprise still continues to produce loss, consideration to disband that segment should be made.
