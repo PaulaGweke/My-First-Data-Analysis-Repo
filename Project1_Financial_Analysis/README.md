@@ -1,4 +1,4 @@
-# My-First-Data-Analysis-Repo - Financial Analysis
+# Financial Analysis
 
 # Project Objectives
 * The project consist of financial report of  manufacturing and sales of 5 products (Paseo, VTT, Amarilla, Velo, Montana and Carretera) across five regions (Canada, France, Germany, Mexico and USA) to monitor sales across products and regions.
