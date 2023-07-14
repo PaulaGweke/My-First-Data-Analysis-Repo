@@ -13,7 +13,7 @@
 * Data was imported from  https://www.bankrate.com/retirement/best-and-worst-states-for-retirement/
 
 # Data Transformation
-* The data does was transformed using Power BI.
+* The data was transformed using Power BI.
 * There were no empty cells so no data was removed, howeever, the data required some cleaning for some column types corrections.
 * A new column was created called 'Total Score' to affirm the Overall Score based on the ratio quoted as used.
 * The data was duplicated to create another table ...Transform, where the 'Inverse Score' (50 for the best and 1 for the worst) of the measure was computed and the Measures pivoted to plot the chart for the indices of certain states of interest and for aesthetic displays.
