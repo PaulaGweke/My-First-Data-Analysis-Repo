@@ -31,7 +31,7 @@
 * Also Kentucky had good indices but measured worst in Culture and Diversity
 * New Jersey also has good measurement of low Crime, great Well-ness, good Cultural Diversity and moderate Weather but high cost in Affordability.
 * Some measurements where the ranking between states were the same were similar. These values were not altered in this analysis as they represent relative measurements.
-* More findings are displayed in Charts of Best_Worst_States_To_Retire_In_US_Project/Best_Worst_US_States_to_Retire.pbix
+* More findings are displayed in Charts of [Best_Worst_States_To_Retire_In_US_Project/Best_Worst_US_States_to_Retire.pbix]
 
 # Recommendation
 * The ranking with only 10% for crime should be revised as the Crime rate in an area could also indicate the level of serenity in a place. Also most retirees are senior citizens who are more vulnerable. The rate should be increased to at least 20%.
