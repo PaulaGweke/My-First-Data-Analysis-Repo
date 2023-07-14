@@ -37,4 +37,4 @@
 * The ranking with only 10% for crime should be revised as the Crime rate in an area could also indicate the level of serenity in a place. Also most retirees are senior citizens who are more vulnerable. The rate should be increased to at least 20%.
   * A measurement using 35% Affordability, 20% Crime, 15% Well-ness, 15% Culture and Diversity and 10% Weather is shown in ...Transform 2 'Total Score 2' display on panel 3 of the Power BI sheet in the folder.
 * The sheet can be made dynamic with customer option to regulate their top choices based on their ranking of the 5 measurements along with some guidance. 
-* Hawaii is a good retirement state for high income / rich retirees and people who prefer low Cultural diversity have great indices in states like Kentucky and West Viginia,
+* Hawaii and New Jersty are a good retirement states for high income / rich retirees and people who prefer low Cultural diversity have great indices in states like Kentucky and Ohio,
