@@ -1,4 +1,4 @@
-# My-First-Data-Analysis-Repo - Best and Worst States to Retire in US Analysis
+# Best and Worst States to Retire in US Analysis
 
 # Project Objectives
 * The project consist of analysis of 50 States in the USA for best place to retire base on 5 measurements;
