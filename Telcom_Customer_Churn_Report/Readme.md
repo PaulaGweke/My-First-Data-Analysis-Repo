@@ -1,4 +1,4 @@
-# My-First-Data-Analysis-Repo - Telcom Churn Analysis
+# Telcom Churn Analysis
 
 # Project Objectives
 * The project consist of the customer quarterly report on the record of a telicommunication company offering eight (services):
@@ -38,7 +38,7 @@
 * Most Churn was from the Electronic Checks which had the most revenue (See Chart 2).
 * Of the three Internet Services provided; DSL and Fibre Optic, it was observed that a significant amourt of customers using the Fibre Optic Internet Service left. This represents 72% of the 1799 customers subscried (see .xlsx sheet for Service Charts).
 * The highest Churn is observed from the Elelctonic Checks which is used by 597 (52%) of the Seniors out of which 317 (53%) Churned (left). While Non Senior subscribed were 1771 customers, out of which approximately 43% Churned. This 52% represent 8% of the total Electronic Check revenue out of which 3.75% Churned (left). See Summurized Churn Chart gif in folder.
-* More findings are displayed in Charts of Telcom_Customer_Churn_Report/Week1_Assignment_Telco_Customer_Churn.xlsx
+* More findings are displayed in Charts of https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/87179aed79696cb6590bae5930a3e91c28d3d458/Telcom_Customer_Churn_Report/Week1_Assignment_Telco_Customer_Churn.xlsx
 
 # Recommendation
 * The high Churn observed in the users of the Fibre Optic internet services suggest poor service by that service provision. This services should be analysed for it's efficiency both in technical productivity and demand due to trend. A compilation of customers' complaints and feedback on the service should be analysed for proper decision making.
