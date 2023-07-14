@@ -30,7 +30,6 @@
 * Hawaii had good indices but fell out of the Top 5 ranking due to high cost (ranked as the most expensive state, #50).
 * Also Kentucky had good indices but measured worst in Culture and Diversity
 * New Jersey also has good measurement of low Crime, great Well-ness, good Cultural Diversity and moderate Weather but high cost in Affordability.
-* Alaska has a surprising record as second worst (49) in Crime.
 * Some measurements were the ranking between states were the same were similar. These values were not altered in this analysis as they represent relative measurements.
 * More findings are displayed in Charts of Best_Worst_States_To_Retire_In_US_Project/Best_Worst_US_States_to_Retire.pbix
 
