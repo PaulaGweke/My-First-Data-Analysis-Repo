@@ -24,7 +24,7 @@
 * Cost of good is 7.31 million
 * Total discount is 1.15 million
 * Total profit is 286,397.02
-* Of the People's Team, Team Charlie made 82% of the total sales (See Chart 1).
+* Of the People's Team, Team Bravo with 26.6% (See Chart 1).
 * There are four Shipment Classes;
 * * First Class
   * Second Class
