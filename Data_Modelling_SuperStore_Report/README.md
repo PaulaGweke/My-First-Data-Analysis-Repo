@@ -10,11 +10,11 @@
 * The data was transformed using Power BI.
 * The data was clean to correct for first row headers and any misplaced data type.
 * Empty cells were removed from the dimension tables.
-* A new column, 'Year' was extracted from the data.
-* A new column 'Total Sales' was created from the (sales*quantiy) -(salas*quantity*discount).
+* A new column 'Total Sales' was created from the (sales*quantiy) -(salas*quantity*discount). As the Sales were treated in this report as representing individual prices.
 * A new columm, 'COGS' was created from the difference between Total Sales and Profit.
 * A new column 'Discount' was created from (salas*quantity*discount).
-* The data was loaded and the realtionships between the fact and dimension sheets were established.
+* A new measure for sales without the 'organic' sales called "Team People" was created
+* The data was loaded and the relationships between the fact and dimension sheets were established.
 * Measures such as count of unique product and quatity sold were calculated.
 
 # Data Findings
@@ -24,6 +24,7 @@
 * Cost of good is 7.31 million
 * Total discount is 1.15 million
 * Total profit is 286,397.02
+* Of the People's Team, Team Charlie made 82% of the total sales (See Chart 1).
 * There are four Shipment Classes;
 * * First Class
   * Second Class
