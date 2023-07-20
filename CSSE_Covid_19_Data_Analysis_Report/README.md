@@ -24,7 +24,7 @@
 * Using the maximum count measure was effective with some limitations:
 * * Countries with more than one provinces had more than one counting hence multiples maximum counts.
   * Inability to match the date with the measures.
-* The trend could be plotted using an area chart as shown in the summarized gif (https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/CSSE_Covid_19_Data_Analysis_Report/CSSE_data_analysis_summary_reportb.gif)
+* The trend could be plotted using an area chart as shown in the summarized gif (https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/CSSE_Covid_19_Data_Analysis_Report/CSSE_data_analysis_summary_report_new.gif)
 
 # Data Transformation - Part 2
 * To create a column with daily new counts instead of daily accumulative counts, the data was further cleaned using Python jupyter notebook.
