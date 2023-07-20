@@ -6,7 +6,7 @@
 
 
 # Data Sourcing
-* File was obtained from their GitHub directory at https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series as part of the material source for 30 days data analytic learning with Excel and PowerBI
+* File was obtained from their GitHub directory at https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series as part of the material source for 30 days data analytic learning with Excel and PowerBI by Tech4Dev from Microsoft Training series.
 
 # Data Transformation - Part 1
 * The data was in three parts; Confirmed, Death and Recovery record, all consisting of wide tables due to the horizontal columns of the date entry.
