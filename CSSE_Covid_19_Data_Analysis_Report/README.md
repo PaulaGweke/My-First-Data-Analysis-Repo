@@ -45,7 +45,8 @@
 * Recording for the Recovered cases was discontinued sometime between August and September of 2021 as shown in the attached summary picture.
 * Most affected country by population percentage is Peru with 0.67% death of the total population.
 * Most affected country by death count is US with about 1,123,836 deaths.
-* The Winter and Summer Olympics had not death record counts.
+* Europe had the most confirmed cases and death counts (see summary picture). Africa had the least confirmed cases and Australia had the least death counts above Africa. No death was recorded in Antarctica.
+* The Winter and Summer Olympics had not death record counts as well as three other regions (see summary).
 * Two cruise ships, "Diamond Princess" and "Zaandam" were affected by the pandemic and have death records.
 * The confirmed Vs Death count for both by Year and Continents was display on logarithm scales to enable visibily and for better analysis of changes.
 * The death count increase from year 2020 to 2021  and dropped in 2022. Record death for this year 2023 is about 100,000 (see summary picture).
