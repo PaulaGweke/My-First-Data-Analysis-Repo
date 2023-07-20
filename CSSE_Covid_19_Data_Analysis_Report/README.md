@@ -50,12 +50,12 @@
 * Two cruise ships, "Diamond Princess" and "Zaandam" were affected by the pandemic and have death records.
 * The confirmed Vs Death count for both by Year and Continents was display on logarithm scales to enable visibily and for better analysis of changes.
 * The death count increase from year 2020 to 2021  and dropped in 2022. Record death for this year 2023 is about 100,000 (see summary picture).
+* * The death percentage of about 1% of affected global population may indicate good proactive global measures in hygiene, quarantee and medical approaches in the containing of the spread of the virus.
 
 # Recommendation
 * The records as saved in GitHub requires some Data Engineering processes for cleaning.
 * Data entry should ensure consistency and accuracy to ensure best result for Data cleaning and restructuring.
 * Cleaning done in this analysis result show good comparison with the sum from the measure of the maximum record for each Country / Region. It also is in comparable range with the death count from WHO records.
-* The death percentage of about 1% of affected global population may indicate good proactive global measures in hygiene, quarantee and medical approaches in the containing of the spread of the virus.
 
 
 
