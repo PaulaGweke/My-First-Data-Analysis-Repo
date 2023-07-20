@@ -1,4 +1,4 @@
-# Financial Analysis
+# John Hopkins Resource Centre Covid-19 Data Analysis Report
 
 # Project Objectives
 * The objective was to make inference and collate statistic information about the effect of the Covid-19 pandemic using data from John Hopkis Resource Centre.0
