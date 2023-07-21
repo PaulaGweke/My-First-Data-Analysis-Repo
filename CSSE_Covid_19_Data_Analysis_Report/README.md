@@ -43,14 +43,14 @@
 # Data Findings 2
 * The final cleaned data gave a death count of 6,764,530 (representing about 1.01% of the affected population) and 672,740,690 confirmed cases (representing almost 9% of the global population).
 * Recording for the Recovered cases was discontinued sometime between August and September of 2021 as shown in the attached summary picture.
-* Most affected country by population percentage is Peru with 0.67% death of the total population.
+* Most affected country by population percentage is Peru with 0.67% death of the total population. This represents a death rate of about 6 to 7 people for every 1000 people.
 * Most affected country by death count is US with about 1,123,836 deaths.
 * Europe had the most confirmed cases and death counts (see summary picture). Africa had the least confirmed cases and Australia had the least death counts above Africa. No death was recorded in Antarctica.
 * The Winter and Summer Olympics had not death record counts as well as three other regions (see summary).
 * Two cruise ships, "Diamond Princess" and "Zaandam" were affected by the pandemic and have death records.
 * The confirmed Vs Death count for both by Year and Continents was display on logarithm scales to enable visibily and for better analysis of changes.
 * The death count increase from year 2020 to 2021  and dropped in 2022. Record death for this year 2023 is about 100,000 (see summary picture).
-* * The death percentage of about 1% of affected global population may indicate good proactive global measures in hygiene, quarantee and medical approaches in the containing of the spread of the virus.
+* * The death percentage of about 0.09% of affected global population indicates a depopulation of almost 1 person for every 1000 people globally.
 
 # Recommendation
 * The records as saved in GitHub requires some Data Engineering processes for cleaning.
