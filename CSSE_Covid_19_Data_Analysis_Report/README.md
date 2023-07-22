@@ -10,7 +10,7 @@
 
 # Data Transformation - Part 1
 * The data was in three parts; Confirmed, Death and Recovery record, all consisting of wide tables due to the horizontal columns of the date entry.
-* The dates were unpivoted for each csv table using Power BI.
+* The dates were unpivoted for each csv table using Excel / Power BI.
 * The new long tables were merged using the Province and Country/Region columns and inner join option.
 * No missing data was observed at that point.
 * The Province column was remove as personal preference.
@@ -47,7 +47,7 @@
 * Most affected country by death count is US with about 1,123,836 deaths.
 * Europe had the most confirmed cases and death counts (see summary picture). Africa had the least confirmed cases and Australia had the least death counts above Africa. No death was recorded in Antarctica.
 * The Winter and Summer Olympics had not death record counts as well as three other regions (see summary).
-* Two cruise ships, "Diamond Princess" and "Zaandam" were affected by the pandemic and have death records.
+* Two cruise ships, "Diamond Princess" and "MS Zaandam" were affected by the pandemic and have death records.
 * The confirmed Vs Death count for both by Year and Continents was display on logarithm scales to enable visibily and for better analysis of changes.
 * The death count increase from year 2020 to 2021  and dropped in 2022. Record death for this year 2023 is about 100,000 (see summary picture).
 * * The death percentage of about 0.09% of affected global population indicates a depopulation of almost 1 person for every 1000 people globally.
