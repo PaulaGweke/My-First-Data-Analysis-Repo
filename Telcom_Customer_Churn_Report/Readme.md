@@ -48,7 +48,7 @@
 * Of the three Internet Services provided; DSL and Fibre Optic, it was observed that a significant amourt of customers using the Fibre Optic Internet Service left. This represents 72% of the 1799 customers subscried (see .xlsx sheet for Service Charts).
 * The highest Churn is observed from the Elelctonic Checks which is used by 597 (52%) of the Seniors out of which 317 (53%) Churned (left). While Non Senior subscribed were 1771 customers, out of which approximately 43% Churned. The 52% of seniors using electronic checks represent 10.6% of Total Charges and 3.75% Churned (left). See Summurized Churn Chart gif in folder.
 
-  [!Myimage](https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/Telcom_Customer_Churn_Report/Churn_Summary_Chart.gif)
+  [!My Image](https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/Telcom_Customer_Churn_Report/Churn_Summary_Chart.gif)
   
 * More findings are displayed in Charts of https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/87179aed79696cb6590bae5930a3e91c28d3d458/Telcom_Customer_Churn_Report/Week1_Assignment_Telco_Customer_Churn.xlsx
 
