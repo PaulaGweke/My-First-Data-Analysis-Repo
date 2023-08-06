@@ -24,6 +24,10 @@
 * Cost of good is 7.31 million
 * Total discount is 1.15 million
 * Total profit is 286,397.02
+
+![My Image](https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/Data_Modelling_SuperStore_Report/SuperStore_summary_Chart1.gif)
+
+
 * Of the People's Team, Team Bravo with 26.6% (See Chart 1).
 * There are four Shipment Classes;
 * * First Class
@@ -32,6 +36,9 @@
   * Same daay
 * Most profit was made from Standard shipment and least profit was made from same day shipment.
 * 85% of total discount is from Organic sales indicating that SuperStore is a brand of for Discount products such as Amazon or Walmart.
+
+![My Image](https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/Data_Modelling_SuperStore_Report/SuperStore_summary_Chart2.gif)
+
 * More findings are displayed in Charts of https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/9e7db2234d6755568a1b072c9636fb918d2142dc/Data_Modelling_SuperStore_Report/SuperStore_Normalized_Data_Modelling.pbix
 
 # Recommendation
