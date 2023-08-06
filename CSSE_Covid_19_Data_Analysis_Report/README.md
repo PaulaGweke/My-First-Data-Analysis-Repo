@@ -62,9 +62,9 @@
 
 ![My Image](https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/CSSE_Covid_19_Data_Analysis_Report/covid_gifs3.png)
 
-* The Winter and Summer Olympics had not death record counts as well as three other regions.
+* The Winter and Summer Olympics had no death record counts as well as three other regions.
 * Two cruise ships, "Diamond Princess" and "MS Zaandam" were affected by the pandemic and have death records.
-* The confirmed Vs Death count for both by Year and Continents was display on logarithm scales to enable visibily and for better analysis of changes.
+* The confirmed Vs Death count for both by Year and Continents was display on logarithm scales to enable good scaling for lower values and for better analysis of changes.
 * The death count increase from year 2020 to 2021  and dropped in 2022. Record death for this year 2023 is about 100,000 (see summary picture).
 
 
