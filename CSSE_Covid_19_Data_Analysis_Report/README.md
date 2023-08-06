@@ -1,5 +1,8 @@
 # John Hopkins Resource Centre Covid-19 Data Analysis Report
 
+![My Image](https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/CSSE_Covid_19_Data_Analysis_Report/animated_covid_gifs2.gif)
+
+
 # Project Objectives
 * The objective was to make inference and collate statistic information about the effect of the Covid-19 pandemic using data from John Hopkis Resource Centre.
 * The global records for the confirmed, death and recovery were used for this analysis.
@@ -29,11 +32,11 @@
 # Data Transformation - Part 2
 * To create a column with daily new counts instead of daily accumulative counts, the data was further cleaned using Python jupyter notebook. New columns, "New_Confirmed", "New_Death" and "New_Recovered", were created for calculation.
 * Using Script:
-  * for i in range(1, len(confirmed)):
+  ''' for i in range(1, len(confirmed)):
     if confirmed.loc[i, 'Lat'] != 0 and confirmed.loc[i, 'Lat'] == confirmed.loc[i - 1, 'Lat']:
         confirmed.loc[i, 'New_Confirmed'] = confirmed.loc[i, 'Confirmed'] - confirmed.loc[i - 1, 'Confirmed']
     else:
-        confirmed.loc[i, 'New_Confirmed'] = confirmed.loc[i, 'Confirmed']
+        confirmed.loc[i, 'New_Confirmed'] = confirmed.loc[i, 'Confirmed'] '''
 * This was applied to for all three new columns created and reloaded to Power BI and transformed.
 * Some error were observed in the results due to:
 * * Some part of China records (from 2nd February, 2023) did not have Latitude and Longitude records and as such the script could not calculate their values.
@@ -42,19 +45,26 @@
  
 # Data Findings 2
 * The final cleaned data gave a death count of 6,764,530 (representing about 1.01% of the affected population) and 672,740,690 confirmed cases (representing almost 9% of the global population).
+* The death percentage of about 0.09% of affected global population indicates a depopulation of almost 1 person for every 1000 people globally.
 
 ![My Image](https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/CSSE_Covid_19_Data_Analysis_Report/covid_gifs1.png)
 
 
-* Recording for the Recovered cases was discontinued sometime between August and September of 2021 as shown in the attached summary picture.
+* Recording for the Recovered cases was discontinued sometime between August and September of 2021 as shown below.
+
+![My Image](https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/CSSE_Covid_19_Data_Analysis_Report/covid_gifs2.png)
+  
 * Most affected country by population percentage is Peru with 0.67% death of the total population. This represents a death rate of about 6 to 7 people for every 1000 people.
 * Most affected country by death count is US with about 1,123,836 deaths.
-* Europe had the most confirmed cases and death counts (see summary picture). Africa had the least confirmed cases and Australia had the least death counts above Africa. No death was recorded in Antarctica.
-* The Winter and Summer Olympics had not death record counts as well as three other regions (see summary).
+* Europe had the most confirmed cases and death counts. Africa had the least confirmed cases and Australia had the least death counts above Africa. No death was recorded in Antarctica.
+
+![My Image](https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/CSSE_Covid_19_Data_Analysis_Report/covid_gifs3.png)
+
+* The Winter and Summer Olympics had not death record counts as well as three other regions.
 * Two cruise ships, "Diamond Princess" and "MS Zaandam" were affected by the pandemic and have death records.
 * The confirmed Vs Death count for both by Year and Continents was display on logarithm scales to enable visibily and for better analysis of changes.
 * The death count increase from year 2020 to 2021  and dropped in 2022. Record death for this year 2023 is about 100,000 (see summary picture).
-* * The death percentage of about 0.09% of affected global population indicates a depopulation of almost 1 person for every 1000 people globally.
+
 
 # Recommendation
 * The records as saved in GitHub requires some Data Engineering processes for cleaning.
