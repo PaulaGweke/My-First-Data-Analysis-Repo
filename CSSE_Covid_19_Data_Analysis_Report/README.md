@@ -49,7 +49,8 @@
  
 # Data Findings 2
 * The final cleaned data gave a death count of 6,764,530 (representing about 1.01% of the affected population) and 672,740,690 confirmed cases (representing almost 9% of the global population).
-* The death percentage of about 0.09% of affected global population indicates a depopulation of almost 1 person for every 1000 people globally.
+* Peak cases count is 90 million in January 2022. Peak Cases death is 0.42 million in January 2021.
+* The death percentage of about 0.09% of affected global population indicates a depopulation of almost 1 person for every 1000 people globally. 
 
 ![My Image](https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/CSSE_Covid_19_Data_Analysis_Report/covid_gifs1.png)
 
