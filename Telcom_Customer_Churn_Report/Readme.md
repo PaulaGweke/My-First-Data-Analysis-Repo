@@ -28,6 +28,7 @@
 * There are 1142 (16%) Senior and 5901 (84%) Non Senior customers. The Senior customer are 65 years and above.
 * Churn was 26.54% representing 1869 of the 7043 customers representing 41.6% of the senoir customers and 23.6% of the Non Senior customers.
 * The churn percentage is  and 18% ( 2,862,926.90 of 16,056,168.70) of Total Charges
+  ![My Image](https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/Telcom_Customer_Churn_Report/Telco_Customer_Chart1.gif)
 * There is high usage of paperless services by the customers; 10,752,789.65 of  16,056,168.70 payment (Total Charges) made, representing 67% of payments.
 * Automated payment made up 59% of total payments.
 * Phone Services had the highest subscribers and online security had the least subscribers.
