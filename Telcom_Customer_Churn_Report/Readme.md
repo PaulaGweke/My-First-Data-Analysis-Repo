@@ -37,7 +37,8 @@
 * Of the payment types, Electronic Checks had the most revenue and mailed check had the least revenue (Chart 2)
 * For counts (frequency of use) for payment types, Electronic Checks had the highest and Credit Checks had the least counts (Chart 1). It also generated the highest payment types in Total Charges, representing 30.8 percent of the Total Charges.
 * Bi-Annual contract subscription gave the most revenue (39%) and Yearly contract brought the least revenue (28%). However, Most customers (3875 representing 55% of the customers) are subscribe to the Monthly Contract (See Chart 1).
-* There are less customers with Partners (48%) than customers without Partners (52%). Customers with partners had more tenures and contributed to 64% of the revenue / Total Charges (see Chart 1).
+* There are less customers with Partners (48%) than customers without Partners (52%). Customers with partners had more tenures and contributed to 64% of the revenue / Total Charges.
+* ![My Image](https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/Telcom_Customer_Churn_Report/Telco_Customer_Chart2_new.gif)
 * 70% of the customers (4933) did not have dependents and brougt in 67% of the total Charges (Seet Chart 1).
 * Most Churn was from the Electronic Checks which had the most revenue amd most of them are subscribed to the monthly payment plan (See Chart 2).
 * Of the three Internet Services provided; DSL and Fibre Optic, it was observed that a significant amourt of customers using the Fibre Optic Internet Service left. This represents 72% of the 1799 customers subscried (see .xlsx sheet for Service Charts).
