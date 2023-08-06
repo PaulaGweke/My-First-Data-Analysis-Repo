@@ -26,10 +26,19 @@
   * Culture and Diversity - Florida
   * Weather - Arizona
   * Crime - New Hampshire
-* The top 5 ranking states from the Overall Score ranking differ slightly from the recalculation of the indeces in the Total Score top 5 States (See Chart 1 and Chart 3 gifs).
+ 
+![My Image](https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/Best_Worst_States_To_Retire_In_US_Project/Best_Worst_US_States_to_Retire_pb1_Chart1.gif)
+
+* The top 5 ranking states from the Overall Score ranking differ slightly from the recalculation of the indeces in the Total Score top 5 States.
+
+![My Image](https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/Best_Worst_States_To_Retire_In_US_Project/Best_Worst_US_States_to_Retire_pbi3_Chart3.gif)
+
 * Hawaii had good indices but fell out of the Top 5 ranking due to high cost (ranked as the most expensive state, #50).
 * Also Kentucky had good indices but measured worst in Culture and Diversity
 * New Jersey also has good measurement of low Crime, great Well-ness, good Cultural Diversity and moderate Weather but high cost in Affordability.
+
+![My Image](https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/Best_Worst_States_To_Retire_In_US_Project/Best_Worst_US_States_to_Retire_pb2_Chart2.gif)
+  
 * Some measurements where the ranking between states were the same were similar. These values were not altered in this analysis as they represent relative measurements.
 * More findings are displayed in Charts of https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/1ceffb2c0fb463f40892cf5cc43575ad78008a6b/Best_Worst_States_To_Retire_In_US_Project/Best_Worst_US_States_to_Retire.pbix
 
