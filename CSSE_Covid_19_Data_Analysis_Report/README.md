@@ -34,11 +34,13 @@
 # Data Transformation - Part 2
 * To create a column with daily new counts instead of daily accumulative counts, the data was further cleaned using Python jupyter notebook. New columns, "New_Confirmed", "New_Death" and "New_Recovered", were created for calculation.
 * Using Script:
-  ''' for i in range(1, len(confirmed)):
+  ```
+   for i in range(1, len(confirmed)):
     if confirmed.loc[i, 'Lat'] != 0 and confirmed.loc[i, 'Lat'] == confirmed.loc[i - 1, 'Lat']:
         confirmed.loc[i, 'New_Confirmed'] = confirmed.loc[i, 'Confirmed'] - confirmed.loc[i - 1, 'Confirmed']
     else:
-        confirmed.loc[i, 'New_Confirmed'] = confirmed.loc[i, 'Confirmed'] '''
+        confirmed.loc[i, 'New_Confirmed'] = confirmed.loc[i, 'Confirmed']
+  ```
 * This was applied to for all three new columns created and reloaded to Power BI and transformed.
 * Some error were observed in the results due to:
 * * Some part of China records (from 2nd February, 2023) did not have Latitude and Longitude records and as such the script could not calculate their values.
