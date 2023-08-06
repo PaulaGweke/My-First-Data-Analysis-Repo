@@ -27,7 +27,9 @@
 * Using the maximum count measure was effective with some limitations:
 * * Countries with more than one provinces had more than one counting hence multiples maximum counts.
   * Inability to match the date with the measures.
-* The trend could be plotted using an area chart as shown in the summarized gif (https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/CSSE_Covid_19_Data_Analysis_Report/CSSE_data_analysis_summary_report_new.gif)
+* The trend could be plotted using an area chart as shown in the summarized below
+
+![My Image](https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/CSSE_Covid_19_Data_Analysis_Report/covid_gifs2.png)
 
 # Data Transformation - Part 2
 * To create a column with daily new counts instead of daily accumulative counts, the data was further cleaned using Python jupyter notebook. New columns, "New_Confirmed", "New_Death" and "New_Recovered", were created for calculation.
@@ -51,9 +53,6 @@
 
 
 * Recording for the Recovered cases was discontinued sometime between August and September of 2021 as shown below.
-
-![My Image](https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/CSSE_Covid_19_Data_Analysis_Report/covid_gifs2.png)
-  
 * Most affected country by population percentage is Peru with 0.67% death of the total population. This represents a death rate of about 6 to 7 people for every 1000 people.
 * Most affected country by death count is US with about 1,123,836 deaths.
 * Europe had the most confirmed cases and death counts. Africa had the least confirmed cases and Australia had the least death counts above Africa. No death was recorded in Antarctica.
