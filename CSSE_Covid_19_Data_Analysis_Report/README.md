@@ -42,6 +42,10 @@
  
 # Data Findings 2
 * The final cleaned data gave a death count of 6,764,530 (representing about 1.01% of the affected population) and 672,740,690 confirmed cases (representing almost 9% of the global population).
+
+![My Image](https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/CSSE_Covid_19_Data_Analysis_Report/covid_gifs1.png)
+
+
 * Recording for the Recovered cases was discontinued sometime between August and September of 2021 as shown in the attached summary picture.
 * Most affected country by population percentage is Peru with 0.67% death of the total population. This represents a death rate of about 6 to 7 people for every 1000 people.
 * Most affected country by death count is US with about 1,123,836 deaths.
