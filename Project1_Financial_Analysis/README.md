@@ -20,7 +20,10 @@
 * Loss was made from product with high and medium discounts only, mostly from Enterprise segment
 * High discount sales from mostly Enterprise segment caused total Cost of Manufacturing for Caterera and VTT to be more than the total sales.
 * Enterprise segment purchased mostly from high and medium discounts goods
-* Findings are displayed in Charts of https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/Financial_Analysis.xlsx
+
+![My Image](https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/Project1_Financial_Analysis/Financial_Analysis_Charts_Summary.gif)
+
+* More Findings are displayed in Charts of https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/Financial_Analysis.xlsx
 
 # Recommendation
 * Unit sales price has unit sales price with discount applied. The Spreadsheet should separate unit price with and without discount
