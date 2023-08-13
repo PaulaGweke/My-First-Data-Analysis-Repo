@@ -10,7 +10,11 @@
 * The data was transformed using Power BI.
 * The data was clean to correct for first row headers and any misplaced data type.
 * Empty cells were removed from the dimension tables.
-* A new column 'Total Sales' was created from the (sales*quantiy) -(salas*quantity*discount). As the Sales were treated in this report as representing individual prices.
+* A new column 'Total Sales' was created from the
+  ```
+   (sales * quantity) -(sales * quantity * discount).
+  ```
+  As the Sales were treated in this report as representing individual prices.
 * A new columm, 'COGS' was created from the difference between Total Sales and Profit.
 * A new column 'Discount' was created from (salas*quantity*discount).
 * A new measure for sales without the 'organic' sales called "Team People" was created
