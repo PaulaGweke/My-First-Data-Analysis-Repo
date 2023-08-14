@@ -47,6 +47,36 @@
   
 ![image](https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/100%2C000_UK_Used_Car_Sales_Analysis/UK_cars_sales2.jpg)
 
+* The trend of price with mpg is hyperbolic but average price peaks around economic measure (200-300 mpg).
+* Most cars (63.8%) are within the moderate tax bracket group (in this analysis - £100 - £200 ).
+* Price trend increases with Engine Size with most cars having engine size between 1 and 2.
+* The age range chart shows that the year most of the cars (94.6%) were made was between 2010 and 2019.
+* Highest average price based on age range are Recent cars followed by Vintage cars. Cars of the 1st 2000s (2000 to 2009) have the least average price.
+* Whisker plot reaffirms scatter plot trend of price decreasing with increasing mileage. The average price of cars with mileage between 100 to 999 is slightly more than that of cars with 0-99 mileage. This may be due to the presence of 1st 2000s car group range in the 10s mileage while the 100s mileage does not.
+  
+![image](https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/100%2C000_UK_Used_Car_Sales_Analysis/UK_cars_sales3.jpg)
 
+* From the KPI analysis. The relationship is in line with observation. It shows price is likely to increase with:
+ * Increase in mpg > 42.8
+ * Greater than 6521 mileage
+ * Tax between 125 and 145
+ * Increase in Engine size
+ * Reduction in age of car.
+* More charts are displayed on the panel with the KPI results by clicking on the “More” button.
+* From the ribbon charts it is observed that:
+ * Most cars are with the 10000s mileage
+ * Engine size is mostly between 1 and 2
+ * Moderate tax range (£100 - £200) cars have the highest average price.
+ * Most of the cars are manual
+
+# Conclusion of Findings
+* In conclusion, most of the cars sold are cars made between 2010 to 2019. 
+* Price of cars generally increases with more recently made cars. However, vintage cars are also of moderately high price due to collections. 
+* Electric cars appear to have lower tax probably due to favorable policies to encourage environmental friendly cars.
+* Higher tax price appear to be associated more with luxury cars than increased mileage.
+* Car prices are mostly influenced by:
+ * Year of make (Cars made between 2000 and 2009 appear to be least demanded as they have the least average price and constitute cars made in age of higher carbon emission and higher fuel usage) and 
+ * Mileage: Price reduces with increased mileage (due to wear and potential increase in tax).
+* Due to the fact that most of the cars fall within very high gas and superbly high gas group (0 – 100 mpg) as well as manual transmission; It appears that these two factors are the most influencing factors in the sales of used cars.
 
 
