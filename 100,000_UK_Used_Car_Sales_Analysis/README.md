@@ -26,5 +26,5 @@
 ** VW – 27 models
 ** Card display shows that the Average price for all cars is £16,890.
 ** Card displays show that the oldest car was produced in 1970 (53 years) and youngest car was produced in 2020 (3 years).
-![image](https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/assets/122382044/f721b082-7ea8-4af6-b61f-ce3e21141796)
+![image](https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/100%2C000_UK_Used_Car_Sales_Analysis/UK_cars_sales1.jpg)
 
