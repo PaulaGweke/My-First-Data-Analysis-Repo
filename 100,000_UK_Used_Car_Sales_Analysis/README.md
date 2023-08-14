@@ -11,4 +11,20 @@
 * Influencing factors were analysis based on the price changes with car specifications in terms of tax, age, mileage, enginesize, mpg, fuel, type, transmission type and car type.
 ![image](https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/100%2C000_UK_Used_Car_Sales_Analysis/car_groups.png)
 
-*
+# Data Findings
+* 108,540 cars from 11 car types and 195 models:
+** Audi – 26 models
+** BMW – 24 models
+** CClass – 1 model
+** Focus – 1 model
+** Ford – 23 models
+** Hyundai – 16 models
+** Mercedes – 27 models
+** Skoda – 12 models
+** Toyota – 18 models
+** Vauxhall – 22 models and 
+** VW – 27 models
+** Card display shows that the Average price for all cars is £16,890.
+** Card displays show that the oldest car was produced in 1970 (53 years) and youngest car was produced in 2020 (3 years).
+![image](https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/assets/122382044/f721b082-7ea8-4af6-b61f-ce3e21141796)
+
