@@ -1,4 +1,6 @@
-# UK Used Cars Sales Analysis -
+# UK Used Cars Sales Analysis
+
+![My Image](https://github.com/PaulaGweke/My-First-Data-Analysis-Repo/blob/main/100%2C000_UK_Used_Car_Sales_Analysis/ttilepage.gif)
 
 
 
