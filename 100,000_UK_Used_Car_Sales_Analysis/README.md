@@ -13,17 +13,17 @@
 
 # Data Findings
 * 108,540 cars from 11 car types and 195 models:
-  ** Audi – 26 models
-  ** BMW – 24 models
-  ** CClass – 1 model
-  ** Focus – 1 model
-  ** Ford – 23 models
-  ** Hyundai – 16 models
-  ** Mercedes – 27 models
-  ** Skoda – 12 models
-  ** Toyota – 18 models
-  ** Vauxhall – 22 models and 
-  ** VW – 27 models
+* * Audi – 26 models
+* * BMW – 24 models
+  * CClass – 1 model
+  * Focus – 1 model
+  * Ford – 23 models
+  * Hyundai – 16 models
+  * Mercedes – 27 models
+  * Skoda – 12 models
+  * Toyota – 18 models
+  * Vauxhall – 22 models and
+  * VW – 27 models
 * Card display shows that the Average price for all cars is £16,890.
 * Card displays show that the oldest car was produced in 1970 (53 years) and youngest car was produced in 2020 (3 years).
 * 
